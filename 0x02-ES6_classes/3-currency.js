@@ -24,7 +24,7 @@ export default class Currency {
 
   // Getter and setter for name
   get name() {
-    return this._code;
+    return this._name;
   }
 
   set name(value) {
