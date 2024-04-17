@@ -26,4 +26,4 @@ console.log(java.getAvailableTeacher());
 console.log("React");
 react.setTeacher = cTeacher;
 console.log(react.getRequirements());
-console.log(react.getAvailableTeacher());
+console.log(react.getAvailableTeacher()); 
